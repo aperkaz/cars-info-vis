@@ -1,4 +1,7 @@
 # cars-info-vis
-Visualization for http://archive.ics.uci.edu/ml/datasets/Automobile
+Simple visualization dashboard for http://archive.ics.uci.edu/ml/datasets/Automobile
 
-Build using Highcharts.js, jQuery and Bootstrap.
+## Featuring
+*Highcharts.js
+*jQuery
+*Bootstrap
